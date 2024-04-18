@@ -1,9 +1,8 @@
 👋 Hi, I’m NehamolVarkey. A passionate data science enthusiast with a strong foundation in mathematics, statistics, and programming.
-# Portfolio- Mariya Joseph
-<p>Welcome to my GitHub project repository, where I have meticulously curated a collection of my data-related endeavors. Within these digital pages, you'll find a comprehensive overview of my projects, showcasing my skills and experiences in the realm of data analysis. </p>
+# Portfolio- Nehamol Varkey
+<p>Welcome to my GitHub project repository, where I have meticulously curated a collection of my data-related endeavors. n</p>
 <h2>CONTENTS📝</h2>
 <ul>
-  <li><a href="#sql">SQL</a></li>
    <li><a href="#python">Python</a></li>
    <li><a href="#powerbi">Power BI</a></li>
    <li><a href="#tableau">Tableau</a></li>
@@ -33,12 +32,12 @@
 | Project Link | Description |
 | ------------ | ------------| 
 | <a href="https://github.com/Mariyajoseph24/Amazon_Sales_India_Tableau_Dashboard">Amazon Sales India Tableau Dashboard💰</a><br> | "Amazon Sales India Tableau Dashboard" project dives deep into Amazon's sales data, offering detailed insights into SKU codes, designs, stock, categories, sizes, colors, and more. This dashboard is a valuable tool for unraveling the complexities of Amazon's operations in India and making data-driven decisions to maximize profitability.<br><p><ul><li>Tools Used🛠️ : Tableau</li></ul></p> | 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
+- 
+- 
+- 
+- 
+- 
 
 <!---
 NehamolVarkey/NehamolVarkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
