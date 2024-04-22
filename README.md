@@ -1,9 +1,9 @@
 👋 Hi, I’m NehamolVarkey. A passionate data science enthusiast with a strong foundation in mathematics, statistics, and programming.
 # Portfolio- Nehamol Varkey
-<p>Welcome to my GitHub project repository, where I have meticulously curated a collection of my data-related endeavors. n</p>
+<p>Welcome to my GitHub project repository, where I have meticulously curated a collection of my data-related endeavors.</p>
 <h2>CONTENTS📝</h2>
 <ul>
-   <li><a href="#python">Python</a></li>
+   <li><a href="#deeplearning">Deep Learning</a></li>
    <li><a href="#powerbi">Power BI</a></li>
    <li><a href="#tableau">Tableau</a></li>
 </ul>
