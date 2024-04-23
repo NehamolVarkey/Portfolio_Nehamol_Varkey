@@ -19,7 +19,7 @@
 
 | Project Link | Description |
 | ------------ | ------------| 
-| <a href="https://github.com/Mariyajoseph24/Spotify_Data_Analysis_Python_Project">Exploratory Data Analysis on Wheat Production in India</a><br> | The Wheat Production in India Project showcases how much wheat is produced by different states in India around 50 years, using Python and libraries like Pandas,Numpy,Seaborn and Matplotlib, within the Jupyter Notebook environment. It explores how much area is used for wheat cultivation and which all states cultivate wheat.<br><p><ul>Tools Used🛠️:<br><li>Programming Language: Python<br></li><li>Libraries: Pandas, Numpy, Matplotlib, Seaborn<br></li><li>IDE: Jupyter Notebook<br></li></ul></p> | 
+| <a href="https://github.com/Mariyajoseph24/Spotify_Data_Analysis_Python_Project">Exploratory Data Analysis on Wheat Production in India🌾</a><br> | The Wheat Production in India Project showcases how much wheat is produced by different states in India around 50 years, using Python and libraries like Pandas,Numpy,Seaborn and Matplotlib, within the Jupyter Notebook environment. It explores how much area is used for wheat cultivation and which all states cultivate wheat.<br><p><ul>Tools Used🛠️:<br><li>Programming Language: Python<br></li><li>Libraries: Pandas, Numpy, Matplotlib, Seaborn<br></li><li>IDE: Jupyter Notebook<br></li></ul></p> | 
 
 <h1><a name="naturallanguageprocessing">Natural Language Processing</a></h1>
 
