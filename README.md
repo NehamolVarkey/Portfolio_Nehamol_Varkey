@@ -1,4 +1,3 @@
-#### 👋 Hi there, I’m NehamolVarkey. A passionate data science enthusiast with a strong foundation in mathematics, statistics, and programming.
 # Portfolio- Nehamol Varkey
 <p>Welcome to my GitHub project repository, where I have meticulously curated a collection of my data-related endeavors.</p>
 <h2>CONTENTS📝</h2>
