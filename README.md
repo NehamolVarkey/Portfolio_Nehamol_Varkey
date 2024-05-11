@@ -4,6 +4,7 @@
 <ul>
    <li><a href="#deeplearning">Deep Learning</a></li>
    <li><a href="#exploratorydataanalysis">Exploratory Data Analysis</a></li>
+   <li><a href="#machinelearning">Machine Learning</a></li>
    <li><a href="#naturallanguageprocessing">Natural Language Processing</a></li>
    <li><a href="#facialrecognition">Facial Recognition</a></li>
 </ul>
@@ -19,6 +20,13 @@
 | Project Link | Description |
 | ------------ | ------------| 
 | <a href="https://github.com/NehamolVarkey/EDA-wheat-production">Exploratory Data Analysis on Wheat Production in India🌾</a><br> | The Wheat Production in India Project showcases how much wheat is produced by different states in India around 50 years, using Python and libraries like Pandas,Numpy,Seaborn and Matplotlib, within the Jupyter Notebook environment. It explores how much area is used for wheat cultivation and which all states cultivate wheat.<br><p><ul>Tools Used🛠️:<br><li>Programming Language: Python<br></li><li>Libraries: Pandas, Numpy, Matplotlib, Seaborn<br></li><li>IDE: Jupyter Notebook<br></li></ul></p> | 
+
+<h1><a name="machinelearning">Machine Learning</a></h1>
+
+| Project Link | Description |
+| ------------ | ------------| 
+| <a href="https://github.com/NehamolVarkey/ML_Projects/blob/master/house_price.py">House Price Prediction and Analysis🏠</a><br> | The Wheat Production in India Project showcases how much wheat is produced by different states in India around 50 years, using Python and libraries like Pandas,Numpy,Seaborn and Matplotlib, within the Jupyter Notebook environment. It explores how much area is used for wheat cultivation and which all states cultivate wheat.<br><p><ul>Tools Used🛠️:<br><li>Programming Language: Python<br></li><li>Libraries: Pandas, Numpy, Matplotlib, Seaborn<br></li><li>IDE: Jupyter Notebook<br></li></ul></p> | 
+
 
 <h1><a name="naturallanguageprocessing">Natural Language Processing</a></h1>
 
