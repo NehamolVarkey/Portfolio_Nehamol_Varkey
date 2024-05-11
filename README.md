@@ -26,10 +26,6 @@
 | Project Link | Description |
 | ------------ | ------------| 
 | <a href="https://github.com/NehamolVarkey/ML_Projects/blob/master/house_price.py">House Price Prediction and Analysis🏠</a><br> | The Wheat Production in India Project showcases how much wheat is produced by different states in India around 50 years, using Python and libraries like Pandas,Numpy,Seaborn and Matplotlib, within the Jupyter Notebook environment. It explores how much area is used for wheat cultivation and which all states cultivate wheat.<br><p><ul>Tools Used🛠️:<br><li>Programming Language: Python<br></li><li>Libraries: Pandas, Numpy, Matplotlib, Seaborn<br></li><li>IDE: Jupyter Notebook</li></p>| 
-
-| Project Link | Description |
-| ------------ | ------------| 
-| <a href="https://github.com/NehamolVarkey/ML_Projects/blob/master/house_price.py">House Price Prediction and Analysis🏠</a><br> | The Wheat Production in India Project showcases how much wheat is produced by different states in India around 50 years, using Python and libraries like Pandas,Numpy,Seaborn and Matplotlib, within the Jupyter Notebook environment. It explores how much area is used for wheat cultivation and which all states cultivate wheat.<br><p><ul>Tools Used🛠️:<br><li>Programming Language: Python<br></li><li>Libraries: Pandas, Numpy, Matplotlib, Seaborn<br></li><li>IDE: Jupyter Notebook</li></p>| 
 | <a href="https://github.com/NehamolVarkey/ML_Projects/blob/master/stroke_prediction.py">Stroke Prediction: Comparative Analysis of Classification Algorithms🧠</a><br> | The Wheat Production in India Project showcases how much wheat is produced by different states in India around 50 years, using Python and libraries like Pandas,Numpy,Seaborn and Matplotlib, within the Jupyter Notebook environment. It explores how much area is used for wheat cultivation and which all states cultivate wheat.<br><p><ul>Tools Used🛠️:<br><li>Programming Language: Python<br></li><li>Libraries: Pandas, Numpy, Matplotlib, Seaborn<br></li><li>IDE: Jupyter Notebook</li></p> |
 
 <h1><a name="naturallanguageprocessing">Natural Language Processing</a></h1>
