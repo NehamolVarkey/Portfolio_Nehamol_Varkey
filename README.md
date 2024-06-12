@@ -14,7 +14,7 @@
 
 | Project Link | Description |
 | ------------ | ------------| 
-| <a href="https://github.com/NehamolVarkey/Traffic_Flow_Prediction">AI Based Traffic Flow Prediction🚗</a><br> | "AI Based Traffic Flow Prediction" employs a pre-trained MobileNet SSD model to detect and track cars in a video feed. It uses non-maximum suppression to refine detections and CentroidTracker to track car movement across frames. The system records car counts and entry times in a CSV file, showcasing practical computer vision applications for object detection and tracking in traffic analysis.<br><p><ul>Tools Used🛠️:<br><li>Programming Language: Python<br></li><li>Libraries: OpenCV, NumPy, pandas, imutils, non_max_suppression_fast, CentroidTracker<br></li><li>IDE: VSCode<br></li></ul></p> | 
+| <a href="https://github.com/NehamolVarkey/Traffic_Flow_Prediction">AI Based Traffic Flow Prediction🚗</a><br> | "AI Based Traffic Flow Prediction" employs a pre-trained MobileNet SSD model to detect and track cars in a video feed. It uses non-maximum suppression to refine detections and CentroidTracker to track car movement across frames. The system records car counts and entry times in a CSV file, showcasing practical computer vision applications for object detection and tracking in traffic analysis.<br><p><ul>Tools Used🛠️:<br><li>Programming Language: Python<br></li><li>Libraries: OpenCV, NumPy, Pandas, Imutils<br></li><li>IDE: VSCode<br></li></ul></p> | 
 
 <h1><a name="exploratorydataanalysis">Exploratory Data Analysis</a></h1>
 
